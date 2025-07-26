@@ -107,6 +107,8 @@ function handleGuess() {
   }
 }
 
+
+
 function disableInput() {
   document.getElementById("guess-input").disabled = true;
   document.querySelector("button").disabled = true;
