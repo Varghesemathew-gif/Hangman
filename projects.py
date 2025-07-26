@@ -1,0 +1,7 @@
+cars=set()
+cars.add("Ferrari")
+cars.add("Mclaren")
+cars.add("Genesis")
+cars.add("Mercedes")
+print(" ".join(cars))
+print(cars)
